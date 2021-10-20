@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ConnectFour {
 
+    // THIS IS MY LAB06 COMMIT COMMENT
     public static void main(String[] args) {
         // create the playing board
         Scanner scan = new Scanner(System.in);
